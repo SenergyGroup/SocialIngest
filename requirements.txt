@@ -1,0 +1,9 @@
+supabase
+requests
+python-dotenv
+sentence-transformers
+hdbscan
+pandas
+numpy
+openai
+google-api-python-client
