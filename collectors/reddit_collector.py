@@ -12,10 +12,11 @@ SUBREDDITS = [
     "Twitch", "OBS", "streaming", "NewTubers", 
     "VirtualYoutubers", "vtubers", "LivestreamFail", 
     "GirlGamers", "Twitch_Startup", "streamup",
-    "battlestations", "desksetup", "macsetups",
-    "unixporn", "Rainmeter", "gamingsetups",
+    "desksetup", "macsetups",
+    "unixporn", "Rainmeter",
     "CozyGamers", "PixelArt", "Cyberpunk", "Outrun",
-    "gamerooms", "StreamOverlaysArt"
+    "gamerooms", "StreamOverlaysArt",
+    #  "gamingsetups", "battlestations"
 ]
 
 # Keep any post that contains at least one of these
